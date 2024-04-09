@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  isbn: MyString
+  author: one
+  publisher: one
+  number_of_pages: 1
+  edition_number: 1
+  publication_date: 2024-04-07
+  category: one
+
+two:
+  isbn: MyString
+  author: two
+  publisher: two
+  number_of_pages: 1
+  edition_number: 1
+  publication_date: 2024-04-07
+  category: two
